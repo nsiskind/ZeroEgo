@@ -38,17 +38,7 @@ function process(url) {
               
             
         })
-        
-        //
-        // look at 'twitterHandles' for people
-        //
-          //Tweet stuff!
-        //
-        //
-      // }
-    })
-  
-  // })
+      })
 }
 
 
